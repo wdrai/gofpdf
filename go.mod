@@ -1,4 +1,4 @@
-module github.com/wdrai/gofpdf
+module github.com/phpdave11/gofpdf
 
 go 1.12
 
